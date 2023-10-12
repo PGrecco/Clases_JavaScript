@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h3{
+    background-color: rgb(189, 194, 194);
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(220, 243, 9);
+    text-transform: uppercase;
+}
