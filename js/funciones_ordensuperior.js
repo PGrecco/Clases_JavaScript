@@ -187,7 +187,7 @@
 
 // console.log(Math.ceil(3.000000101)); //(redondea para arriba) (4)
 
-// console.log(Math.floor(3.000000101)); //(redondea para arriba) (3)
+// console.log(Math.floor(3.000000101)); //(redondea para abajo) (3)
 
 // console.log(Math.round(3.000000101)); //(redondea al mas cercano) (3)
 
@@ -206,16 +206,16 @@
 
 
 
-// CLASE DATE (meses de 0 a 11)
+// // CLASE DATE (meses de 0 a 11)
 
-console.log( new Date ()); //Devuelve la fecha actual
+// console.log( new Date ()); //Devuelve la fecha actual
 
-// parametros: (año, mes, dia, hora, minutos, segundos)
+// // parametros: (año, mes, dia, hora, minutos, segundos)
 
-const fechaAyer = (new Date(2023, 9, 23));
-console.log(fechaAyer);
+// const fechaAyer = (new Date(2023, 9, 23));
+// console.log(fechaAyer);
 
-// se puede pasar la fecha como string (en ingles) -> (mes, dia, año, hora)
+// // se puede pasar la fecha como string (en ingles) -> (mes, dia, año, hora)
 
 
 //          -----------------------------------------------
@@ -252,7 +252,16 @@ console.log(fechaAyer);
 
 // console.log(diferencia);  //.abs = sacar valor absoluto
 
-// EJERCICIOS 
+
+
+
+
+
+// REPASOS
+
+// MAP : transforma el array
+
+
 
 
 
